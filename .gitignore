@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Build directories
+cmake-build-debug/
+cmake-build-minsizerel/
+cmake-build-release/
+
+# OS
+.DS_Store
+Thumbs.db
